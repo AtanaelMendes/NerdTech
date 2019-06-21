@@ -37,7 +37,7 @@ $email = ob_get_clean();
  
   $host     = 'smtp.umbler.com';
   $username = 'atanaelmendes@tecnologianerd.com';
-  $password = 'hades666';
+  $password = '#';
   $port     = 587;
   $secure   = 'tls';
  
